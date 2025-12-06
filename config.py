@@ -11,18 +11,18 @@ API_ID = int(getenv("API_ID","22540373"))
 API_HASH = getenv("API_HASH","41c21b4f450a79e23b0ccf7593aeaad3")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN","5418725646:AAHoubyDRmC9bvW3k0AtuCqFT-LUbg8cofk")
+BOT_TOKEN = getenv("BOT_TOKEN","7319023890:AAEUJPOs9zR2QH_tUI1AcWyHCpFcADd5shY")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://untoldp:untoldp@untoldp.zdixt.mongodb.net/?retryWrites=true&w=majority&appName=untoldp")
+MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://uffvikky88:vikky@kingvikky.qaf2s.mongodb.net/?retryWrites=true&w=majority&appName=kingvikky")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1001550054357"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1002136457746"))
 
 # Get this value from @MissRose_Bot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID","6391774843"))
+OWNER_ID = int(getenv("OWNER_ID","7980630836"))
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
 API_KEY = getenv("API_KEY", 'NxGBNexGenBots4556e3') # youtube song api ke # -------------------------------------------------------------------------#
